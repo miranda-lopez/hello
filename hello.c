@@ -2,8 +2,8 @@
  * autor: Miranda Lopez 
  * Date: 2021/08/24
  * 
- * A simple hello world program in C
- * 
+ * Print name and major with a collaborator 
+ *
  */
  #include <stdlib.h>
  #include <stdio.h>
