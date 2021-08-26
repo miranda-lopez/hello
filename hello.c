@@ -12,6 +12,9 @@
      
      printf("hello world, I'm Miranda Lopez!\n");
      printf("My major is Computer Science\n");
+  
+     printf("Hello World, I'm Ngan Nguyen!\n");
+     printf("My major is Computer Science.\n);
      
      return 0;
      
