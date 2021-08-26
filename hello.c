@@ -1,6 +1,6 @@
 /**
  * autor: Miranda Lopez 
- * Date: 2021/08/24
+ * Date: 2021/08/26
  * 
  * Print name and major with a collaborator 
  *
